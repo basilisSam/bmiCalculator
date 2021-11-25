@@ -4,7 +4,7 @@ The front end of the bmiCalculator application. A functional BMI Calculator app 
 
 ## Teck Stack
 
-The project is build with [React](https://reactjs.org/). It uses [CSS] for styling and [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2) to print a chart with your measurements.
+The project is build with [React](https://reactjs.org/). It uses #CSS for styling and [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2) to print a chart with your measurements.
 
 ## Available Scripts
 
